@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.niklasonfire.twa",
+        "sha256_cert_fingerprints": ["C9:38:81:6F:B7:2D:44:58:11:77:D1:E8:EA:74:1E:11:D3:B6:2D:40:3F:0E:2C:1F:5C:68:82:56:53:75:33:00"]
+      }
+    }]
