@@ -6,6 +6,8 @@
 ```bash
 # Vom eigenen Rechner aus:
 scp -r playbook-deploy/ user@DEINE-CASAOS-IP:~/playbook
+
+
 ```
 
 ### 2. Per SSH auf den Server & bauen
